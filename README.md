@@ -70,15 +70,14 @@ make px4_sitl_default gazebo-classic_iris
 MicroXRCEAgent udp4 -p 8888
 ```
 
-- Terminal 3: run uav_simulation project
------ for offboard_control -----
+- Terminal 3: run uav_simulation project for offboard_control
 ```
 cd uav_simualtion
 colcon build
 source install/setup.bash
 ros2 run drone_control offboard_control
 ```
------ or for manual control -----
+or for manual control
 ```
 cd uav_simualtion
 colcon build
