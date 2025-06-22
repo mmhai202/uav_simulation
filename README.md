@@ -1,7 +1,7 @@
 # UAV Simulation
 
 ## Project Overview
-This project simulates a UAV with ROS 2 through PX4 using C++. It offers two main capabilities: manual control and offboard control (automatic control).
+This project delivers a C++-based UAV simulation framework using ROS 2 and PX4, featuring two core modes of operation: interactive manual control and fully autonomous offboard control. The project is intended to provide a foundational solution and platform that enables researchers to quickly and professionally engage with and implement complex UAV algorithms.
 
 ## Project setup
 
@@ -77,7 +77,7 @@ colcon build
 source install/setup.bash
 ros2 run drone_control offboard_control
 ```
-or for manual control
+or for manual_control
 ```
 cd uav_simualtion
 colcon build
