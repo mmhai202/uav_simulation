@@ -38,7 +38,7 @@ sudo make install
 sudo ldconfig /usr/local/lib/
 ```
 
-- Clone the [uav_simulation](https://github.com/mmhai202/uav_simulation) project
+- Clone [uav_simulation](https://github.com/mmhai202/uav_simulation) project
 
 ### Step 3: Build firmware
 
