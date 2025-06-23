@@ -3,7 +3,7 @@
 ## Project Overview
 This project delivers a C++ based UAV simulation framework using ROS 2 and PX4, featuring two core modes of operation: interactive manual control and fully autonomous offboard control. The project is intended to provide a foundational solution and platform that enables researchers to quickly and professionally engage with and implement complex UAV algorithms.
 
-## Project setup
+## Project Setup
 
 ### Step 1: Basic setup
 
