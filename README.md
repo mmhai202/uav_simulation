@@ -9,7 +9,7 @@ This project delivers a C++ based UAV simulation framework using ROS 2 and PX4, 
 
 - Install [ROS 2 Humble](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html) on Ubuntu 22.04
 
-- Install [colcon]() to build ROS 2 packages (if it is not already installed)
+- Install colcon to build ROS 2 packages
 
 ### Step 2: Download firmware
 
